@@ -110,6 +110,5 @@ telnet 10.1.1.253
 
 ## Notes
 
-- `service password-encryption` was used to encrypt passwords.
 - `no ip domain-lookup` was configured to prevent unwanted DNS lookup.
 - Telnet connectivity was verified successfully from PCs.
