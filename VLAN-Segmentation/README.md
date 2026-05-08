@@ -166,7 +166,3 @@ This happens because VLAN 10 and VLAN 20 are separate broadcast domains and inte
 - `show vlan brief` was used to verify VLAN assignments.
 
 ---
-
-## Author
-
-Chalana
